@@ -1,0 +1,14 @@
+{
+  "name": "lyons-gym",
+  "version": "1.0.0",
+  "description": "Sistema de gimnasio",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Lyons Gym",
+  "license": "ISC",
+  "dependencies": {
+    "electron": "^13.1.8"
+  }
+}

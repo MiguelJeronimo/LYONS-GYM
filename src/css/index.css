@@ -1,0 +1,28 @@
+.centrar-contenido{
+    margin-top: 40%;
+    display: flex;
+    justify-content: center;
+    align-self: center;
+    
+}
+
+.centrar-contenido-spam{
+    margin-top: 3%;
+    display: flex;
+    justify-content: center;
+    align-self: center;
+    
+}
+
+.titulo-color{
+    color: #FF2205;
+}
+
+.formulario{
+    margin-top: 20%;
+   
+}
+.background-derecha{
+    background-color: #001221;
+    height: 575px;
+}
